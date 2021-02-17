@@ -1,15 +1,13 @@
 Package: PkgTst
-Title: What the Package Does (One Line, Title Case)
+Title: Figuring Out How to Make a Package
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Dakota",
+           family = "Thompson",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to
-    pick a license
+           email = "dst911@gmail.com")
+Description: Add 2 numbers, subtract 2 numbers, multiply 2 numbers, or divide 2 numbers.
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
